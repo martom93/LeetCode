@@ -37,7 +37,7 @@ Merge Intervals
 Non-overlapping Intervals
 Meeting Rooms (Leetcode Premium)
 Meeting Rooms II (Leetcode Premium)
-Reverse a Linked List
+Reverse a Linked List - SOLVED
 Detect Cycle in a Linked List
 Merge Two Sorted Lists
 Merge K Sorted Lists
@@ -52,14 +52,14 @@ Longest Repeating Character Replacement
 Minimum Window Substring
 Valid Anagram
 Group Anagrams
-Valid Parentheses
+Valid Parenthesesa
 Valid Palindrome
 Longest Palindromic Substring
 Palindromic Substrings
 Encode and Decode Strings (Leetcode Premium)
 Maximum Depth of Binary Tree
 Same Tree
-Invert/Flip Binary Tree
+Invert/Flip Binary Tree - SOLVED
 Binary Tree Maximum Path Sum
 Binary Tree Level Order Traversal
 Serialize and Deserialize Binary Tree
