@@ -1,6 +1,6 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        #hashset
+        #using hashset
         tabela = set()
         
         for i in nums:
