@@ -1,15 +1,15 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         
-        #------------
-        # 1st method
-        #------------
+        #-------------
+        # 1st method #
+        #-------------
         
         #return Counter(s) == Counter(t)
     
-        #------------
-        # 2nd method
-        #------------
+        #-------------
+        # 2nd method #
+        #-------------
         
         if len(s)!=len(t):
             return False
