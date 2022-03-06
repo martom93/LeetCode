@@ -8,3 +8,6 @@ class Solution:
             else:
                 szukane[target-nums[i]] = i
         return None
+
+
+
