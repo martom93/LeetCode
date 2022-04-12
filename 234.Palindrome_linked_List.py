@@ -17,13 +17,13 @@ class Solution:
         
         #reversing linked list
         def odwrotnosc(head):
-            tmp = None
+            previous = None
             while head:
                 nx=head.next
-                head.next = tmp
-                tmp = head
+                head.next = previous
+                previous = head
                 head = nx
-            return tmp
+            return previous
         
         #Reverse the second part of linked list 
         first = second = head
